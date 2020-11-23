@@ -1,0 +1,16 @@
+{
+  "name": "node-to-vio",
+  "bin": {
+    "vtodo": "./cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+  "version": "0.0.2",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.2.0",
+    "inquirer": "^7.3.3"
+  }
+}
